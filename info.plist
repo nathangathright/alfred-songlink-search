@@ -46,9 +46,9 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>Nathan Gathright</string>
 	<key>description</key>
-	<string></string>
+	<string>Search song.link from Alfred</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -299,7 +299,11 @@ fi</string>
 			<integer>135</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>0.0.1</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/nathangathright/alfred-songlink-search</string>
 </dict>
 </plist>
