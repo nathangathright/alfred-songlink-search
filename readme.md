@@ -1,8 +1,8 @@
 # alfred-songlink-search
 
-Search for songlinks from Alfred
+Search Songlink from Alfred
 ## Installation
-**<a download href="https://github.com/nathangathright/alfred-songlink-search/releases/latest/download/songlink-search.alfredworkflow">Download and install the latest release</a>** 
+**<a download href="https://github.com/nathangathright/alfred-songlink-search/releases/latest/download/songlink-search.alfredworkflow">Download and install the latest release</a>**
 
 ## Usage
 

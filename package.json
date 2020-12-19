@@ -1,7 +1,7 @@
 {
   "name": "alfred-songlink-search",
-  "version": "0.0.0",
-  "description": "Search for songlinks from Alfred",
+  "version": "0.0.4",
+  "description": "Search Songlink from Alfred",
   "license": "MIT",
   "repository": "nathangathright/alfred-songlink-search",
   "author": {
